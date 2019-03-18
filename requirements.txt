@@ -21,7 +21,6 @@ requests
 scipy
 setuptools
 six
-sys
 thinkx
 urllib3
 wheel  
