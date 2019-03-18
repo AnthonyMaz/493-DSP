@@ -6,10 +6,12 @@ cycler
 display
 idna
 kiwisolver
+librosa
 matplotlib
 numpy
 pandas
 pip
+pysndfx
 pyaudio
 pyparsing
 python-dateutil
